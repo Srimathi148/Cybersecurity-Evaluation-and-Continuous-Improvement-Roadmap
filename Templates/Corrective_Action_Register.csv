@@ -1,0 +1,6 @@
+
+Action ID,Finding,Priority,Responsible Role,Date Identified,Target Deadline,Status,Verification Method,Closure Approval
+CA-001,Improve MFA coverage for all eligible accounts,Critical,IT Administrator,2026-11-01,2026-11-08,Completed,Review MFA coverage report,Security Coordinator
+CA-002,Review unresolved high-risk vulnerabilities,High,IT Security Analyst,2026-11-05,2026-11-25,In Progress,Rescan affected systems and review findings,Pending Verification
+CA-003,Conduct employee phishing awareness training,Medium,HR and Security Coordinator,2026-11-10,2026-12-10,Open,Review training completion records,Pending Verification
+CA-004,Perform scheduled backup restoration test,High,IT Administrator,2026-11-12,2026-12-12,Open,Document and verify restoration results,Pending Verification
