@@ -1,0 +1,24 @@
+
+KPI ID,KPI Name,Measurement Method,Proposed Target,Review Frequency,Responsible Role
+KPI-01,Security Awareness Completion,Employees completing awareness training / Total employees * 100,100%,Quarterly,HR and Security Coordinator
+KPI-02,Phishing Simulation Failure Rate,Employees failing simulation / Participants * 100,Less than 5%,Quarterly,Security Coordinator
+KPI-03,Multi-Factor Authentication Coverage,Accounts protected by MFA / Eligible accounts * 100,100%,Monthly,IT Administrator
+KPI-04,Endpoint Monitoring Coverage,Monitored endpoints / Total endpoints * 100,At least 98%,Monthly,IT Administrator
+KPI-05,Critical Vulnerability Remediation,Closed critical vulnerabilities / Identified critical vulnerabilities * 100,Within approved remediation deadline,Monthly,IT Security Analyst
+KPI-06,High Vulnerability Remediation,High vulnerabilities remediated within 30 days / High vulnerabilities identified * 100,At least 95%,Monthly,IT Security Analyst
+KPI-07,Mean Time to Detect,Total detection time / Number of incidents,Reduce over time,Monthly,Security Analyst
+KPI-08,Mean Time to Respond,Total response time / Number of incidents,Reduce over time,Monthly,Incident Response Lead
+KPI-09,Incident Reporting Compliance,Incidents reported within target / Total incidents * 100,At least 95%,Monthly,All Employees and IT Team
+KPI-10,Incident Closure Rate,Incidents closed within approved SLA / Total incidents * 100,At least 90%,Monthly,Incident Response Lead
+KPI-11,Unauthorised Access Review,Access exceptions investigated / Access exceptions identified * 100,100%,Monthly,IT Administrator
+KPI-12,Privileged Account Review,Privileged accounts reviewed / Total privileged accounts * 100,100%,Quarterly,Security Coordinator
+KPI-13,Security Patch Compliance,Endpoints patched within policy deadline / Applicable endpoints * 100,At least 95%,Monthly,IT Administrator
+KPI-14,Log Review Compliance,Completed scheduled log reviews / Planned log reviews * 100,100%,Weekly,Security Analyst
+KPI-15,Backup First-Attempt Success Rate,Backup jobs successful on first attempt / Scheduled backup jobs * 100,At least 98%,Daily and Monthly,IT Administrator
+KPI-16,Backup Restore Test Success,Successful restore tests / Total restore tests * 100,100%,Quarterly,IT Administrator
+KPI-17,Security Policy Review Completion,Policies reviewed on schedule / Policies due for review * 100,100%,Annually,Security Coordinator
+KPI-18,Asset Inventory Accuracy,Verified assets / Assets sampled * 100,At least 98%,Quarterly,IT Support Team
+KPI-19,Security Training Assessment Score,Average employee assessment score,At least 80%,Quarterly,HR and Security Coordinator
+KPI-20,Open High-Risk Findings,Count of unresolved high-risk findings,Zero overdue critical findings,Monthly,Security Coordinator
+KPI-21,Threat Intelligence Review,Completed scheduled threat reviews / Planned reviews * 100,100%,Monthly,Security Analyst
+KPI-22,Corrective Action Closure,Verified corrective actions closed by deadline / Actions due * 100,At least 90%,Monthly,Security Coordinator
