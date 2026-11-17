@@ -1,0 +1,12 @@
+
+Risk ID,Risk Description,Likelihood (1-5),Impact (1-5),Risk Score,Initial Risk Level,Proposed Mitigation,Residual Risk Level
+R-01,Phishing and credential theft,4,5,20,Critical,Employee awareness training MFA email filtering and phishing simulations,Medium
+R-02,Ransomware affecting business files,3,5,15,High,Offline backups endpoint monitoring patching and recovery testing,Medium
+R-03,Unauthorised access to privileged accounts,3,5,15,High,MFA least privilege privileged account reviews and access logging,Low
+R-04,Unpatched software vulnerabilities,4,4,16,High,Regular vulnerability scans prioritised patching and remediation tracking,Medium
+R-05,Insufficient security log monitoring,3,4,12,High,Centralised logging alert monitoring and scheduled log reviews,Medium
+R-06,Data leakage through accidental sharing,3,4,12,High,Data classification access restrictions and employee training,Medium
+R-07,Backup failure or incomplete recovery,3,5,15,High,Backup monitoring restore testing and documented recovery procedures,Low
+R-08,Malicious insider activity,2,5,10,High,Role-based access control audit logs and periodic access reviews,Medium
+R-09,Third-party service compromise,3,4,12,High,Vendor security assessments contractual safeguards and access restrictions,Medium
+R-10,Delayed incident reporting and response,3,4,12,High,Incident reporting procedures response exercises and escalation contacts,Medium
