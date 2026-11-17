@@ -1,0 +1,5 @@
+
+Evidence ID,Evidence Type,Source,Collection Date and Time,Collected By,SHA-256 Hash,Storage Reference,Access History,Retention Status
+EV-001,Security Alert,Illustrative monitoring alert,2026-11-01 09:30 IST,Security Analyst,Not calculated - illustrative record,Restricted evidence storage,Access limited to authorised staff,Active
+EV-002,Vulnerability Report,Illustrative vulnerability assessment,2026-11-03 11:00 IST,IT Security Analyst,Not calculated - illustrative record,Restricted evidence storage,Access limited to authorised staff,Active
+EV-003,Audit Log,Illustrative authentication log,2026-11-05 14:15 IST,IT Administrator,Not calculated - illustrative record,Restricted evidence storage,Access limited to authorised staff,Active
